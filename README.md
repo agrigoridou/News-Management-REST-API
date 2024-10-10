@@ -12,7 +12,7 @@ This project is a RESTful API for managing news articles, topics, and comments. 
 - **Database**: PostgreSQL for relational data management.
 
 ## Technologies Used
-- **Python**: Core programming language.
+- **Javascript**: Core programming language.
 - **Django**: Web framework used for development.
 - **Django REST Framework**: For building the REST API.
 - **PostgreSQL**: Database management system.
