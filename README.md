@@ -2,6 +2,7 @@
 
 This project is a RESTful API for managing news articles, topics, and comments. It allows users to perform CRUD operations on news data, providing a foundation for a news platform or similar content management systems. The API is built using Django REST Framework and PostgreSQL for robust and scalable data handling.
 
+
 ## Features
 - **CRUD Operations**: Create, Read, Update, and Delete news articles and topics.
 - **User Authentication**: Support for user roles (admin and regular users) with secure login.
